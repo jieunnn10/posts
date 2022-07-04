@@ -1,0 +1,162 @@
+{
+	"requestList":{
+		"apiUid":"CMS_IF_03"
+		, "resultCd":"0000"
+		, "totalCnt":"112"
+		, "resultMsg":"성공적으로 처리되었습니다."
+		, "knowInfo":[
+			{
+				"seq":1
+				, "title":"지식등록 요청 제목"
+				, "contents":"지식등록 요청 내용"
+				, "statusCd":"R"
+				, "reqrNo":"123456"
+				, "reqNm":"홍길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분"
+				, "chgNo":"234567"
+				, "chgNm":"김길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":2
+				, "title":"지식등록 요청 제목2"
+				, "contents":"지식등록 요청 내용2"
+				, "statusCd":"A"
+				, "reqrNo":"234567"
+				, "reqNm":"김길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분2"
+				, "chgNo":"123456"
+				, "chgNm":"홍길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":3
+				, "title":"지식등록 요청 제목3"
+				, "contents":"지식등록 요청 내용3"
+				, "statusCd":"A"
+				, "reqrNo":"334567"
+				, "reqNm":"이길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분2"
+				, "chgNo":"434567"
+				, "chgNm":"최길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":4
+				, "title":"지식등록 요청 제목4"
+				, "contents":"지식등록 요청 내용4"
+				, "statusCd":"C"
+				, "reqrNo":"434567"
+				, "reqNm":"최길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분2"
+				, "chgNo":"534567"
+				, "chgNm":"위길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":5
+				, "title":"지식등록 요청 제목5"
+				, "contents":"지식등록 요청 내용5"
+				, "statusCd":"S"
+				, "reqrNo":"534567"
+				, "reqNm":"최길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분2"
+				, "chgNo":"634567"
+				, "chgNm":"위길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":6
+				, "title":"지식등록 요청 제목6"
+				, "contents":"지식등록 요청 내용6"
+				, "statusCd":"S"
+				, "reqrNo":"123456"
+				, "reqNm":"홍길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분6"
+				, "chgNo":"234567"
+				, "chgNm":"김길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":7
+				, "title":"지식등록 요청 제목7"
+				, "contents":"지식등록 요청 내용7"
+				, "statusCd":"R"
+				, "reqrNo":"234567"
+				, "reqNm":"김길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분7"
+				, "chgNo":"123456"
+				, "chgNm":"홍길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":8
+				, "title":"지식등록 요청 제목8"
+				, "contents":"지식등록 요청 내용8"
+				, "statusCd":"C"
+				, "reqrNo":"334567"
+				, "reqNm":"이길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분8"
+				, "chgNo":"434567"
+				, "chgNm":"최길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":9
+				, "title":"지식등록 요청 제목9"
+				, "contents":"지식등록 요청 내용9"
+				, "statusCd":"R"
+				, "reqrNo":"434567"
+				, "reqNm":"최길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분9"
+				, "chgNo":"534567"
+				, "chgNm":"위길동"
+				, "chgDtm":"20220520130520"
+			},{
+				"seq":10
+				, "title":"지식등록 요청 제목10"
+				, "contents":"지식등록 요청 내용10"
+				, "statusCd":"A"
+				, "reqrNo":"534567"
+				, "reqNm":"최길동"
+				, "reqDtm":"20220518130520"
+				, "rejtReason":"내용 불충분10"
+				, "chgNo":"634567"
+				, "chgNm":"위길동"
+				, "chgDtm":"20220520130520"
+			}
+		]
+	},
+	"requestUpdate":{
+		"apiUid":"CMS_IF_04"
+		, "resultCd":"0000"
+		, "resultMsg":"성공적으로 처리되었습니다."
+	},
+	"statusList":{
+		"apiUid":"CMS_IF_07"
+		, "resultCd":"0000"
+		, "resultMsg":"성공적으로 처리되었습니다."
+		, "reqStatus": [
+			{
+				"cslrNo":"123456"
+				, "reqCnt":"19"
+				, "recvCnt":"23"
+				, "rejtCnt":"8"
+				, "regCnt":"120"
+			}, {
+				"cslrNo":"234567"
+				, "reqCnt":"45"
+				, "recvCnt":"15"
+				, "rejtCnt":"1"
+				, "regCnt":"88"
+			}, {
+				"cslrNo":"434567"
+				, "reqCnt":"36"
+				, "recvCnt":"57"
+				, "rejtCnt":"22"
+				, "regCnt":"889"
+			}
+		]
+	}
+}
